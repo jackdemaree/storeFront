@@ -1,0 +1,19 @@
+.navbar-right{
+    margin-right: 30px;
+}
+
+#backgroundPic{
+    background: url("http://trimarribbon.com/wp-content/uploads/2014/11/hanging-lanterns.jpg");
+    background-size: cover;
+    color: white;
+    /* background-color: blue; */
+}
+
+body{
+    padding-top: 70px;
+}
+
+.img{
+    max-height: 200 px;
+}
+
